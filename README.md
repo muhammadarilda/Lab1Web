@@ -13,7 +13,7 @@ Heading adalah judul artikel Heading terbesar yaitu (h1) dan seterus nya akan ke
 
 ## Format teks
 
-![teksformat](Screenshot/Format-Teks.jpg)
+![teksformat](Screenshot/FormatTeks.jpg)
 
 ini adalah contoh dari format teks,seperti memberi span background-color yellow,dan juga teks tebal bold (b) teks italic dan juga tag underline bergaris bawah
 
