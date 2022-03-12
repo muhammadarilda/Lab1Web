@@ -19,7 +19,7 @@ ini adalah contoh dari format teks,seperti memberi span background-color yellow,
 
 ## Menambahkan foto dengan tag IMG
 
-![Menambahkanfoto](Screenshot/Menambahkan-Foto-dengan-Tag-IMG.jpg)
+![Menambahkanfoto](Screenshot/Menambahkan%20Foto-dengan-Tag-IMG.jpg)
 
 untuk menambahkan foto menggunakan tag img dan ditaruh folder yang sesui untuk source tersebut
 
